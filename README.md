@@ -2,6 +2,7 @@ Dear Team Lead,
 
 I would like to report the steps I followed to complete the assigned task. Here is a detailed summary:
 
+
 1. Create Repository on GitHub:
    - Created a new repository on GitHub named "Week_1_Assignment".
    - Added a brief description of the repository.
@@ -62,3 +63,4 @@ Thank you for your guidance and support throughout the assignment.
 
 Best regards,
 Malik Muhammad Mubashar Waheed
+
